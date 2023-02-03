@@ -22,10 +22,10 @@ This page allows the user to create and modify events, and view past, present an
 
 
 ## Forum
-
-Classo is an all-in-one scheduler, productivity, and study tool for students. It helps you keep organized, focused, and clear, helping you to better focus on your day-to-day tasks and ensure that you are functioning at a high level, providing you the greatest school experience possible.
-
-There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
+User can search for courses by Professors' names or by course names. Within each course page, user's can choose to enroll, ask a question and view questions asked pervously.
+* Search for courses by Professor's name or course name
+* Ask questions. Users are also able to resolve their own questions
+* Professors are also able to create their own courses.
 
 # Tech
 * Spotfy API
