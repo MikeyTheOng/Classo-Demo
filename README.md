@@ -11,14 +11,16 @@ Dashboard provides an overview of today's schedule, courses you are enrolled in 
 * Number of minutes will be displayed if the user spends more than a minute focusing (on the focus page)
 
 ## Focus
-Classo is an all-in-one scheduler, productivity, and study tool for students. It helps you keep organized, focused, and clear, helping you to better focus on your day-to-day tasks and ensure that you are functioning at a high level, providing you the greatest school experience possible.
+The Focus page is designed to provide the user with a distraction free environment and has the following features
+* Pomodoro Timer
+* Spotify integration
+* Note-taking Functionality. User is able to create and edit notes here.
 
-There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
+
 ## Calendar
+This page allows the user to create and modify events, and view past, present and future events.    
 
-Classo is an all-in-one scheduler, productivity, and study tool for students. It helps you keep organized, focused, and clear, helping you to better focus on your day-to-day tasks and ensure that you are functioning at a high level, providing you the greatest school experience possible.
 
-There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
 ## Forum
 
 Classo is an all-in-one scheduler, productivity, and study tool for students. It helps you keep organized, focused, and clear, helping you to better focus on your day-to-day tasks and ensure that you are functioning at a high level, providing you the greatest school experience possible.
@@ -26,3 +28,4 @@ Classo is an all-in-one scheduler, productivity, and study tool for students. It
 There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
 
 # Tech
+* Spotfy API
