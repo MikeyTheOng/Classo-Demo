@@ -1,0 +1,67 @@
+.calendar-page{
+    background-color: #DFD8D4;
+    padding: 34px 0px;
+}
+
+.calendar {
+    background-color: #a8b09b;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sidebar {
+    padding: 0px 0px 0px 20px; /*only left side*/
+}
+
+#add_event_btn{
+    color: white;
+    font-weight: 600;
+}
+
+#clear_event_btn{
+    font-weight:600;
+}
+
+.no-uppercase {
+    text-transform: unset !important;
+}
+
+.card-text {
+    padding-bottom: 0;
+}
+
+.all_day_checkbox {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.event_popup_title {
+    font-size: 18px;
+    font-weight: 500;
+}
+.eventDetails {
+    color: #3B3A3A;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+
+.eventDetailsContent{
+    font-weight: 400;
+}
+
+.datetime_input_field{
+    font-size: 15px;
+}
+
+.deleteLoad {
+    width: 290px;
+    height: 174px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit_field{
+    padding-bottom: 15px;
+}

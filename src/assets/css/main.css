@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import 'https://fonts.googleapis.com/css?family=Vibur';
+
+:root {
+  --font-poppins: "Poppins", sans-serif;
+}
+
+* {
+  font-family: var(--font-poppins) !important;
+  /* background-color: #DFD8D4 !important; */
+}
+
+
+html::-webkit-scrollbar {
+  /* display: none; */
+  width:1vw;
+}
+
+/* Track */
+html::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  /* border-radius: 10px; */
+}
+
+/* Handle */
+html::-webkit-scrollbar-thumb {
+  background: #8A8795 ;
+  /* border-radius: 10px; */
+}
+
+/* Handle on hover */
+html::-webkit-scrollbar-thumb:hover {
+  background: #2F4858; 
+}
