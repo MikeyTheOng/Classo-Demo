@@ -5,7 +5,7 @@ Classo is an all-in-one scheduler, productivity, and study tool for students. It
 There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
 
 # Project setup
-The website is hosted here: https://pd23.netlify.app/. If you would like to set-up the project on your local machine, follow the steps below.
+The website is hosted here: https://classodemo.netlify.app/. If you would like to set-up the project on your local machine, follow the steps below.
 
 ## Prerequisite
 * Node.js and npm (version 12 or higher)
