@@ -7,6 +7,10 @@ There are four pages for you to explore: Dashboard, Focus, Calendar and Forum.
 # Project setup
 The website is hosted here: https://classodemo.netlify.app/. If you would like to set-up the project on your local machine, follow the steps below.
 
+DEMO Account
+User: demo_account@smu.edu.sg
+Password: demo123
+
 ## Prerequisite
 * Node.js and npm (version 12 or higher)
 
